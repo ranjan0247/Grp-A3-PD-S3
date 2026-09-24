@@ -4,8 +4,8 @@ A command-line text editor built in C that operates on specific line numbers.
 
 ## Team Members
 *   RANJAN
-*   RAGHUKISHOR
-*   PRANAV
+*   RAGHUKISHORE M
+  
 
 ## Features Implemented
 We implemented the following core features:
